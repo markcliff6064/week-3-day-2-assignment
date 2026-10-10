@@ -1,7 +1,9 @@
 # Week 3 Day 2 Assignment — Async JavaScript
 
 This assignment practices asynchronous JavaScript using callbacks, Promises, async/await, parallel API requests, Promise methods, retry logic, and exponential backoff.
-
+![shown](https://github.com/markcliff6064/week-3-day-2-assignment/blob/dd02c0cf50ceb5e067daaa2b065b70b56f17826e/1.jpg)
+![shown](https://github.com/markcliff6064/week-3-day-2-assignment/blob/dd02c0cf50ceb5e067daaa2b065b70b56f17826e/2.jpg)
+![shown](https://github.com/markcliff6064/week-3-day-2-assignment/blob/dd02c0cf50ceb5e067daaa2b065b70b56f17826e/3.jpg)
 ## Topics Practiced
 
 * Callback functions
